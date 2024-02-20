@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231661011253",
+    "project_id": "online-item-bid-final",
+    "storage_bucket": "online-item-bid-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231661011253:android:c2a51c18392bbff6ec8c7c",
+        "android_client_info": {
+          "package_name": "com.example.onlineitembid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuYixXdlyaUcIDKQf3s2M2j1wdJL4R7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

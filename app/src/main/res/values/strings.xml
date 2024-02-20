@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online Item Bid</string>
+    <string name="using_rest_apis">Using Rest APIs</string>
+</resources>
